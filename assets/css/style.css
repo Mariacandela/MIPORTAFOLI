@@ -20,6 +20,12 @@ body {
 h5 {
     font-family: 'Oswald'; 
     font-size: 50px;
+    font-weight: 200;
+}
+
+h6 {
+    font-family: 'Oswald'; 
+    font-size: 50px;
     font-weight: 400;
 }
 
@@ -55,4 +61,12 @@ footer h5 {
     
 .icon-section {
     min-width: 100%;
+}
+
+#color {
+   
+    margin: 0;
+    border: 0;
+    padding: 0;
+    
 }
